@@ -28,6 +28,7 @@ I build full-stack SaaS products with AI integration — from architecture to pr
 - **Certificate** in Data Analytics: Machine Learning — University College Dublin *(40 hours)*
 - **Certificate** in Python Programming — University College Dublin *(12 hours)*
 - **Statement of Accomplishment** in Machine Learning — DataCamp *(65 hours)*
+- **Professional Academy Certificate** in Project Management — University College Dublin *(in progress, 2026)*
 - **Diploma** in Management — Kaliningrad State Technical University *(EU-accredited, verified in Ireland)*
 
 #### Tech Stack
