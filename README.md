@@ -31,6 +31,7 @@ I build full-stack SaaS products with AI integration — from architecture to pr
 - **Certificate** in Cluster Analysis in Python — DataCamp *(4 hours)*
 - **Certificate** in Statistical Thinking in Python — DataCamp *(3 hours)*
 - **Certificate** in Introduction to ChatGPT — DataCamp *(1 hour)*
+- **Certificate** in Understanding Machine Learning — DataCamp *(2 hours)*
 - **Professional Academy Certificate** in Project Management — University College Dublin *(in progress, 2026)*
 - **Diploma** in Management — Kaliningrad State Technical University *(EU-accredited, verified in Ireland)*
 
