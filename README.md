@@ -2,7 +2,7 @@
 
 **Technical PM & Solution Architect** based in Dublin, Ireland.
 
-I build full-stack SaaS products with AI integration — from architecture to production deployment. Background in business management (8 years running my own company) combined with software engineering education from University College Dublin.
+I build full-stack SaaS products with AI integration — from architecture to production deployment. Background in business management (8 years running my own company in Dublin) combined with software engineering education from University College Dublin.
 
 ---
 
@@ -28,7 +28,7 @@ I build full-stack SaaS products with AI integration — from architecture to pr
 - **Certificate** in Data Analytics: Machine Learning — University College Dublin *(40 hours)*
 - **Certificate** in Python Programming — University College Dublin *(12 hours)*
 - **Statement of Accomplishment** in Machine Learning — DataCamp *(65 hours)*
-- **Diploma** in Management — KGTU Kaliningrad
+- **Diploma** in Management — Kaliningrad State Technical University *(EU-accredited, verified in Ireland)*
 
 #### Tech Stack
 
